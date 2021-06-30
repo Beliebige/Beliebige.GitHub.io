@@ -1,0 +1,18 @@
+ /*表格属性*/ 
+tr{height: 81.5px;color: hsla(0,30%,96%,1.00)}
+		th{width:300px}
+		aside { width: 17%; height:700px;float: left; }
+        article { width:83%; height: 700px; float: left; }
+ /*首页文字属性*/ 
+        .homepage{font-family:宋体;font-size: 30px}
+ /*页眉属性*/ 
+        .none {background-color: hsla(187,70%,28%,1.00);margin-top: -10px;border-style: none;height: 80px;font-size: 55px;text-align: center;font-family: 楷体;}
+ /*标题属性*/ 
+		.titleone{font-size: 70px;font-family:楷体;color: hsla(0,25%,98%,1.00);margin-top:180px;margin-left:150px}
+		.titletwo{font-size: 50px;font-family:楷体;color: hsla(0,25%,98%,1.00);margin-left:150px;margin-top:150px}
+.titlethree{font-size: 50px;font-family:楷体;color: hsla(0,25%,98%,1.00);text-align: center}
+ /*正文属性*/ 
+  .nonetwo {background-color: hsla(187,70%,28%,1.00);margin-top: 500px;border-style: none;height: 2350px;font-size: 35px;font-family: 楷体;}
+/*图片属性*/
+.photoone{ width: 100%; height:800px}
+   a{color:hsla(0,0%,100%,1.00);text-decoration: none;}
